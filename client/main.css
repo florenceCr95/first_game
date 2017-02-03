@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+#character {
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
